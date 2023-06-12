@@ -20,7 +20,7 @@ La base de datos se ha modelado utilizando el enfoque de Modelo Entidad-Relació
 
 ## Uso de la Base de Datos
 
-Para utilizar esta base de datos, se proporcionarán instrucciones detalladas sobre cómo importar el esquema y cargar los datos iniciales. Además, se ofrecerán consultas de ejemplo que permitirán realizar diversas operaciones, como buscar películas por género, obtener información del director o productor de una película específica, y consultar el elenco principal de una película.
+Para utilizar esta base de datos, se ofrecen consultas de ejemplo que permitirán realizar diversas operaciones, como buscar películas por género, obtener información del director o productor de una película específica, y consultar el elenco principal de una película.
 
 ## Contribuciones
 
@@ -30,6 +30,10 @@ Las contribuciones a este proyecto son bienvenidas. Si desea contribuir, siga lo
 2. Cree una rama nueva para trabajar en su mejora o corrección.
 3. Implemente los cambios y realice las pruebas necesarias.
 4. Envíe una solicitud de extracción con una descripción clara de los cambios realizados.
+
+## Autora
+
+El presente proyecto fue desarrollado por Estephania P.A.
 
 ## Contacto
 
